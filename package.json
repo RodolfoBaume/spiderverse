@@ -1,0 +1,22 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Diseño de Software con TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodolfoBaume/spiderverse.git"
+  },
+  "author": "RodolfoBaume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodolfoBaume/spiderverse/issues"
+  },
+  "homepage": "https://github.com/RodolfoBaume/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
